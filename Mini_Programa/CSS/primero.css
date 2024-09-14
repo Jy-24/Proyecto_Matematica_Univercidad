@@ -1,0 +1,43 @@
+body{
+	background-image:url("../img/fondo01.png");
+	display: grid;
+	justify-content: center;
+	padding: 0;
+	margin:0;
+}
+.contenedore{
+	padding-top: 20%;
+}
+.contenedor{
+	
+	width: 500px;
+	height: 270px;
+	padding-left: 4%;
+	justify-content: center;
+	 background:#26425a;
+	border-radius: 2%;
+	border: solid 3px white;
+	}
+h1{
+	color: white;
+}
+p{
+	color: white;
+}
+a{
+	border: solid 4px #000;
+	text-decoration: none;
+}
+.edit-btn, .delete-btn { 
+	
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.edit-btn:hover, .delete-btn:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,54 @@
+body{
+    
+    background-image: url("../img/fondo01.png");
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+table {
+	
+	justify-content: center;
+	align-items: center;
+    margin: 10px;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+th {
+    background:#052659;
+    color: white:;
+}
+tr{
+    background:#57707a;
+}
+
+th, p{
+	color: white;
+   }
+
+   .contenedor{
+    justify-content: center;
+    height: 330px;
+    width: 300px;
+     background:#26425a;
+     border: 1px solid #ccc;
+   }
+
+
+
+ 
